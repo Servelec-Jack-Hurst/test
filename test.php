@@ -33,5 +33,6 @@ echo $card['face'] . ' of ' . $card['suit'];
 <br>
 <form method = "POST" action = <?php shuffle($deck)?>>
 	<input type="submit" name = "submit" value = "Draw">
+<hr>
 </body>
 </html>

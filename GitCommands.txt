@@ -3,6 +3,7 @@ git checkout -b TEST-224 (Creates a branch for a feature - usually DEV-NUMBER)
 git log -1 (See commit history)
 git push -u origin TEST-224 (Makes your local branch trackable on the repository)
 git pull (Pulls a command from the (current?) branch)
+git diff (Checks the differences between your working copy and repository copy)
 
 ________________________________________________________
 
