@@ -1,0 +1,3 @@
+SQL Query Guides:
+
+https://www.mssqltips.com/sqlservertip/1239/how-to-get-index-usage-information-in-sql-server/
