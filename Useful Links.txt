@@ -1,3 +1,5 @@
 SQL Query Guides:
 
-https://www.mssqltips.com/sqlservertip/1239/how-to-get-index-usage-information-in-sql-server/
+Index Information: https://www.mssqltips.com/sqlservertip/1239/how-to-get-index-usage-information-in-sql-server/
+
+Object Property Function: http://www.dailyfreecode.com/code/objectproperty-function-377.aspx
